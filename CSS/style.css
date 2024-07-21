@@ -26,11 +26,13 @@ h2{
 }
 
 .header{
+  display: flex;
   width: 90vw;
   height: 15vh;
   background:#cccfff;
 }
 
+/*LOGO*/
 .header__side-logo{
   background: lightcyan;
   width: 20vw;
@@ -38,7 +40,7 @@ h2{
   display: flex;
   align-items: center;
 }
-/*LOGO*/
+
 
 .header__place-logo{
   width: 70px;
@@ -52,23 +54,48 @@ h2{
   
 }
 
+/*nav*/
+
+.header__side-nav{
+  width: 80vw;
+  background-color: lightblue;
+   
+
+  
+}
+
+.list__items{
+ display: flex;
+ 
+justify-content: space-around;
+align-items: center;
+  margin-left:100px;
+  margin-top: 45px;
+}
+
+
+.items{
+  font-size: 25px;
+  a
+}
 .block {
-  display: flex;
-  /* flex-direction: column; */
+   display: flex; 
+  
+   flex-grow:1;
 }
 
 .block__left {
-  width: 35vw;
+  width: 15vw;
   height: 75vh;
   background: rgb(109, 283, 234);
 }
 .block__main {
-  width: 90vw;
+  width: 70vw;
   height: 75vh;
   background: rgb(229, 233, 134);
 }
 .block__right {
-  width: 35vw;
+  width: 15vw;
   height: 75vh;
   background: rgb(29, 283, 234);
 
