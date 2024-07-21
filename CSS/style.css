@@ -31,6 +31,27 @@ h2{
   background:#cccfff;
 }
 
+.header__side-logo{
+  background: lightcyan;
+  width: 20vw;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+/*LOGO*/
+
+.header__place-logo{
+  width: 70px;
+  height: 70px;
+  border: 5px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 55px;
+  border-radius:50% ;
+  
+}
+
 .block {
   display: flex;
   /* flex-direction: column; */
