@@ -58,7 +58,7 @@ h2{
 
 .header__side-nav{
   width: 80vw;
-  background-color: lightblue;
+  background-color: transparent;
    
 
   
@@ -76,7 +76,7 @@ align-items: center;
 
 .items{
   font-size: 25px;
-  a
+  
 }
 .block {
    display: flex; 
