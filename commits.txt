@@ -1,0 +1,61 @@
+Lenovo@LAPTOP-PK56RKMD MINGW64 /c/xampp/htdocs/Layout/Fantasy/seven (main)
+$ git log
+commit 3b589c1b93152bb786e1cd1c0f751e3694849e28 (HEAD -> main)
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Fri Jul 26 08:11:22 2024 +0300
+
+    correct top_block
+
+commit 61237c54dd1ee65a5a04d418c192c86194190ec9 (origin/main)
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Tue Jul 23 15:44:12 2024 +0300
+
+    for look
+
+commit e85d6367291be7c1484468e86b99a6e31904013d
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Tue Jul 23 09:52:58 2024 +0300
+
+...skipping...
+commit 3b589c1b93152bb786e1cd1c0f751e3694849e28 (HEAD -> main)
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Fri Jul 26 08:11:22 2024 +0300
+
+    correct top_block
+
+commit 61237c54dd1ee65a5a04d418c192c86194190ec9 (origin/main)
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Tue Jul 23 15:44:12 2024 +0300
+
+    for look
+
+commit e85d6367291be7c1484468e86b99a6e31904013d
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Tue Jul 23 09:52:58 2024 +0300
+
+    main block
+...skipping...
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Fri Jul 26 08:11:22 2024 +0300
+
+    correct top_block
+
+Lenovo@LAPTOP-PK56RKMD MINGW64 /c/xampp/htdocs/Layout/Fantasy/seven (main)
+$ git log
+commit 3b589c1b93152bb786e1cd1c0f751e3694849e28 (HEAD -> main)
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Fri Jul 26 08:11:22 2024 +0300
+
+    correct top_block
+
+commit 61237c54dd1ee65a5a04d418c192c86194190ec9 (origin/main) 
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Tue Jul 23 15:44:12 2024 +0300
+
+    for look
+
+commit e85d6367291be7c1484468e86b99a6e31904013d
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Tue Jul 23 09:52:58 2024 +0300
+
+:
