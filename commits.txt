@@ -59,3 +59,8 @@ Author: Nick Novosyolov <microsoft20081@gmail.com>
 Date:   Tue Jul 23 09:52:58 2024 +0300
 
 :
+commit 06d319fc312f03393d90a38744485c8d3871ea82 (HEAD -> new-brach)
+Author: Nick Novosyolov <microsoft20081@gmail.com>
+Date:   Fri Jul 26 08:31:07 2024 +0300
+
+    add read me and commits
