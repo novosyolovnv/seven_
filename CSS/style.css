@@ -94,7 +94,7 @@ height: 100%;
 
 .img-header{
   width: 15vw;
-  height: 100%;
+  height:15vh;
   border: px solid red;
  background-color: lightgoldenrodyellow;
  /* position: relative; */
@@ -105,12 +105,13 @@ height: 100%;
 }
 
 .sioma{
-  /* position: absolute;
-  left:27%;
-  top:2%; */
+  
   border: 5px solid blue;
   border-radius: 50%;
   overflow: hidden;
+  /* display: flex;
+ justify-content: center;
+ align-items: center; */
 
 }
 
@@ -155,7 +156,7 @@ justify-content: space-around;
 .block__side{
   width: 10vw;
   height: 25vh;
-  background-color: lightblue;
+  background-color: lightgoldenrodyellow;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -164,7 +165,7 @@ justify-content: space-around;
 .block__img{
   width: 140px;
   height: 140px;
-  border: 8px solid yellow;
+  border: 8px solid darkorchid;
   border-radius: 50%;
   overflow: hidden;
   padding-right: 15px;;
