@@ -116,21 +116,94 @@ height: 100%;
 }
 
 .block {
-   display: flex; 
+  display: flex;
   width: 90vw;
-   
-   border: 0px solid #000;
+  border: 0px solid #000;
 }
+
 .block__left, .block__right{
 
 background: rgb(109, 183, 234);
 }
 
-.block__left {
+.block__left, .block__right {
   width: 15vw;
   height: 85vh;
   
 }
+
+.block__left{
+  display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+border: 6px solid yellow;
+}
+
+ .nav__inf {
+  width: 100%;
+  height: 85vh;
+  
+    margin: 0px;
+    font-size: 40px;
+    font-family:  Geneva, Verdana, sans-serif;
+    font-style: italic;
+   
+   border: 5px solid green;
+   
+  }
+
+  .title-left{
+    width: 100%;
+    height: 25vh;
+    margin: 0px 20px 0px 0px;
+    background-color:transparent;border: 5px solid #fff;
+    
+  }
+
+  .ul__list-inf {
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:transparent;
+    border: 5px solid #fff;
+    height: 70%;
+    
+    
+  
+  }
+
+  .li__item-inf{
+    background-color:#ff0;
+    border: 4px solid white;
+    border-radius: 15px;
+    padding: 15px;
+    
+  }
+   
+ 
+  
+  .p1{
+    text-align: center;
+    margin: 30px 5px;
+  }
+  
+  
+  .p2{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+  } 
+   .li__item-inf {
+    margin: 20px;
+    font-size: 3cqh;
+    font-family:  Geneva, Verdana, sans-serif;
+    font-style: italic;
+  }
+  
+
+
 .block__main {
   width: 60vw;
   height: 85vh;
@@ -143,9 +216,7 @@ background: rgb(109, 183, 234);
   
 }
  .block__right {
-  width: 15vw;
-  height: 85vh;
-  /* background: rgb(109, 283, 234); */
+ 
   border:0px solid #fff;
 display: flex;
 flex-direction: column;
@@ -153,7 +224,7 @@ align-items: center;
 justify-content: space-around;
 } 
 
-.block__side{
+.block__side-right{
   width: 10vw;
   height: 25vh;
   background-color: lightgoldenrodyellow;
@@ -180,6 +251,10 @@ justify-content: space-around;
   border: 0px solid blue;
   box-sizing: content-box;
 } 
+
+
+
+
 
 
   .block__top{
