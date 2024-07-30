@@ -242,6 +242,11 @@ justify-content: space-around;
   padding-right: 15px;;
 }
 
+.photo_one{
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-right:200px;
+}
 
  .footer{
   width: 90vw;
